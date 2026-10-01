@@ -6,6 +6,7 @@ Antes de programar profissionalmente, atuei por mais de um ano no **suporte de T
 
 - 💼 Aberto a vagas de **Desenvolvedor Júnior, Front-end, Full Stack ou Analista de Sistemas**
 - 🌐 Portfólio: [thiagoizdro.github.io/Portfolio](https://thiagoizdro.github.io/Portfolio/)
+- 💼 LinkedIn: [thiago-izidro-fernandes](https://www.linkedin.com/in/thiago-izidro-fernandes-196811291)
 - 📍 Brasília - DF · presencial, híbrido ou remoto
 
 ## 🛠️ Tecnologias
